@@ -1,0 +1,6 @@
+{
+    "name": "mitm",
+    "paths": ["src"],
+    "entrypoint": "mitm-repl",
+    "dependencies": {}
+}
